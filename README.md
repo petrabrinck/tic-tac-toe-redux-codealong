@@ -1,3 +1,3 @@
 # Tic Tac Toe
 
-Codealong project for the introduction to redux
+Introduction to Redux. A fun and useful tic-tac-toe game!
